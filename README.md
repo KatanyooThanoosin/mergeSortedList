@@ -1,4 +1,4 @@
-installation
+<b>installation</b>
 ```
 bla bla
 ```
